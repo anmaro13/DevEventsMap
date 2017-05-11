@@ -1,0 +1,19 @@
+.section-home {
+  z-index: 9999;
+  opacity: 1;
+  top: 0;
+  overflow-y: auto;
+  position: absolute;
+  width: 35%;
+  bottom: 0;
+  background-color: rgba(255,255,255,0.5);
+  margin: 1rem;
+  right: 0;
+}
+
+#map {
+  position: absolute;
+  top:0; bottom:0;
+  right:0;
+  left:0;
+}
